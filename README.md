@@ -12,7 +12,7 @@ websites with plain HTML, CSS, and JavaScript (no frameworks).
 - **Tools:** Git, GitHub, GitHub Pages, VS Code
 
 ### Projects
-- **[Workout Logbook](https://github.com/will-clutter/workout-tracker)** · [Live demo](https://will-clutter.github.io/workout-tracker/)
+- **[Workout Logbook](https://github.com/will-clutter/workout-tracker)** · [Live demo](https://will-clutter.github.io/workout-tracker/) <br>
   A mobile-first workout tracker with exercise search, muscle maps, swipe
   gestures, and cardio logging, built with vanilla HTML, CSS, and JavaScript.
   Targets WCAG 2.2 AA accessibility (Lighthouse score of 100) and includes
