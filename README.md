@@ -21,3 +21,5 @@ websites with plain HTML, CSS, and JavaScript (no frameworks).
 ### Currently
 - **Learning:** Service workers, PWAs, and backend development (adding offline support and cloud sync to my workout app)
 - **Looking for:** Software engineering internships for Summer 2027
+
+### **Exploring next:** Kotlin/Ktor, Supabase, and building with LLM APIs
